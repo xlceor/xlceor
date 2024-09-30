@@ -4,23 +4,43 @@
 [![LinkedIn][LinkedIn-badge]][LinkedIn-url]
 [![Instagram][Instagram-badge]][Instagram-url]
 
-I'm a self-taught programmer who enjoys writing code for both client-side user interfaces and server-side application logic.
 
-I learned to code through online courses and resources, both free and paid, and strengthened my skills by practicing and building sustainable, efficient Full-Stack applications.
 
-In my GitHub Porfile,, i've shared some of my best projects.
+Hi, I'm Carlos Osorio. I'm a self-taught programmer who enjoys writing 
+code for both client-side user interfaces and server-side application 
+logic.
 
-## Knowledge
+## **My Journey**
+
+I learned to code through online courses, tutorials, and resources - both 
+free and paid - which helped me build a strong foundation in programming. 
+As I honed my skills, I focused on creating sustainable and efficient 
+Full-Stack applications that can handle various scenarios.
+
+## **GitHub Portfolio**
+
+In my GitHub profile, you'll find some of my best projects, showcasing my 
+expertise in various technologies. Take a look and explore the code!
+
+## Skills
+
 [![Python][Python-badge]][Python-url]
 [![React][React-badge]][React-url]
 [![HTML][HTML-badge]][HTML-url]
 [![CSS][CSS-badge]][CSS-url]
 [![JavaScript][JavaScript-badge]][JavaScript-url]
 
-## Learning
+## Programming Languages I'm Learning
+
 [![Java][Java-badge]][Java-url]
 [![Spring][Spring-badge]][Spring-url]
 [![MySQL][MySQL-badge]][MySQL-url]
+
+## **What's Next?**
+
+I'm always looking to improve and expand my skillset. If you're interested 
+in learning more about my projects or would like to collaborate on a new 
+venture, feel free to reach out!
 
 
 [Upwork-badge]: https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white
