@@ -1,4 +1,4 @@
-# Hi!! 👋🏻 I'm Carlos Osorio
+# Carlos Osorio — Full-Stack Developer & Creative Technologist
 
 [![Upwork][Upwork-badge]][Upwork-url] 
 [![LinkedIn][LinkedIn-badge]][LinkedIn-url]
