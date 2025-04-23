@@ -14,13 +14,13 @@ Currently, I’m focused on:
 
 - Building interactive UIs with **React**, **Tailwind CSS**, **Next.js** and **Framer Motion**
 - Creating intelligent backends with **Python**, **Flask**, **Firebase**, and **TypeScript**
-- Prototyping innovative tools using **ESP32**, **Jetson Nano**, and embedded tech
+- Prototyping innovative tools using **ESP32** and embedded tech
 
 ## **Highlighted Projects**
 
-- **GETAPRO** – Platform for managing advanced research projects with real-time collaboration and AI support [#]  
-- **[WTranscriber](https://xlceor.vercel.app/#wtranscriber)** – Web app that transcribes audio and video using OpenAI Whisper  
-- **[Spelling Bee 2025](https://spelling-bee-cham.vercel.app/)** – Educational app for English spelling contests  
+- **GETAPRO** – Platform for managing research projects with real-time collaboration and AI-powered support for academic and scientific environments.  
+- **[WTranscriber](https://xlceor.vercel.app/#wtranscriber)** – AI transcription tool for audio and video, powered by Whisper and built with accessibility in mind.  
+- **[Spelling Bee 2025](https://spelling-bee-cham.vercel.app/)** – Educational web app designed to train students for English spelling competitions in a gamified way. 
 - **Custom Jet Engine & Exosuit Systems** – *Coming soon…*  
 
 ## **Frontend Technologies**
