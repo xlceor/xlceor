@@ -4,7 +4,7 @@
 [![LinkedIn][LinkedIn-badge]][LinkedIn-url]
 [![Instagram][Instagram-badge]][Instagram-url]
 
-I'm Carlos Osorio, a self-taught full-stack developer with a passion for merging functionality and imagination. From crafting AI-driven tools to building futuristic interfaces, I strive to make the digital world more elegant, powerful, and accessible. Whether it’s a React app or a custom jet engine system (yes, really), I believe technology should feel like magic—but built with logic.
+I'm Carlos Osorio, a self-taught full-stack developer with a passion for merging functionality and imagination. From crafting AI-driven tools to building futuristic interfaces, I strive to make the digital world more elegant, powerful, and accessible. Whether it’s a React app or a Node.JS/Flask API, I believe technology should feel like magic—but built with logic.
 
 ## **About Me**
 
