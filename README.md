@@ -21,7 +21,7 @@ Currently, I’m focused on:
 - **GETAPRO** – Platform for managing research projects with real-time collaboration and AI-powered support for academic and scientific environments.  
 - **[WTranscriber](https://xlceor.vercel.app/#wtranscriber)** – AI transcription tool for audio and video, powered by Whisper and built with accessibility in mind.  
 - **[Spelling Bee 2025](https://spelling-bee-cham.vercel.app/)** – Educational web app designed to train students for English spelling competitions in a gamified way. 
-- **Custom Jet Engine & Exosuit Systems** – *Coming soon…*  
+- **Custom Biomedical tech, as Exosuit and protesys Systems** – *Coming soon…*  
 
 ## **Frontend Technologies**
 
