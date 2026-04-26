@@ -1,85 +1,103 @@
-# Carlos Osorio — Full-Stack Developer & Embedded Systems Engineer
+# Carlos Osorio — Systems Builder (Software + Embedded + Robotics)
 
 [![Upwork][Upwork-badge]][Upwork-url] 
 [![LinkedIn][LinkedIn-badge]][LinkedIn-url]
 [![Instagram][Instagram-badge]][Instagram-url]
 
-I'm Carlos Osorio, a self-taught developer and builder focused on bridging software and physical systems. I design and develop everything from AI-powered applications to embedded control systems, always aiming to turn complex ideas into functional, real-world technology.
+I build systems that connect software with the physical world — turning human intention into real, measurable action.
 
-What started as web development has evolved into building full-stack systems that extend beyond the screen — combining interfaces, hardware, and intelligent control.
-
----
-
-## About Me
-
-My journey began with curiosity and relentless experimentation. I learned to build applications from scratch—both frontend and backend—and gradually expanded into embedded systems, robotics, and hardware-driven development.
-
-Currently, I focus on:
-
-- Building interactive interfaces with React, Next.js, Tailwind CSS, and Framer Motion
-- Developing intelligent backends with Python, Flask, Firebase, and TypeScript
-- Designing real-time control systems for embedded hardware (ESP32, microcontrollers)
-- Prototyping robotic and electromechanical systems
+What started as web development evolved into designing full-stack architectures that go beyond screens: systems that sense, decide, and act through hardware, real-time communication, and intelligent control.
 
 ---
 
-## Highlighted Projects
-- Khymera Dashboard – Real-time control and telemetry interface for embedded systems.  
-  - Live sensor monitoring (SSE)  
-  - Actuator control (servos, hardware interfaces)  
-  - AI-assisted command execution  
-  - Voice interaction  
-  → Acts as the control layer for a physical robotic system  
+## What I Do
 
-- Khymera (Robotic Gripper / Prosthetic System) – Modular robotic platform focused on accessibility and mechanical efficiency.  
-  - 3D-printed structure (PLA + TPU)  
-  - Servo-actuated mechanism (four-bar linkage)  
-  - Embedded control (ESP32)  
-  - Designed for low-cost, functional prosthetic applications  
+I focus on building end-to-end systems, where interfaces, logic, and hardware work as a single unit.
 
-- GETAPRO – Platform for managing research projects with real-time collaboration and AI-powered support for academic and scientific environments.  
-
-- WTranscriber – AI transcription tool for audio and video, powered by Whisper and built with accessibility in mind.  
-
-- Spelling Bee 2025 – Educational web app designed to train students for English spelling competitions in a gamified way.  
-
-- Custom Biomedical & Robotics Systems – Including exosuit concepts and modular prosthetic architectures  
-  (In active development)  
+- Design interactive interfaces that control real-world systems  
+- Build intelligent backends that process, decide, and respond in real time  
+- Develop embedded control systems for sensors and actuators  
+- Prototype robotic and electromechanical solutions  
 
 ---
 
-## Frontend Technologies
+## Selected Work
 
-[![React][React-badge]][React-url]  
-[![Next.js][Next-badge]][Next-url]  
-[![TailwindCSS][Tailwind-badge]][Tailwind-url]  
-[![JavaScript][JavaScript-badge]][JavaScript-url]  
+### Khymera Dashboard  
+A real-time control and telemetry system designed to interact with physical hardware.
 
----
+- Live sensor monitoring (SSE)  
+- Actuator control (servos, hardware interfaces)  
+- AI-assisted command execution  
+- Voice interaction  
 
-## Backend Technologies
-
-[![Python][Python-badge]][Python-url]  
-[![Flask][Flask-badge]][Flask-url]  
-[![Firebase][Firebase-badge]][Firebase-url]  
-[![TypeScript][TypeScript-badge]][TypeScript-url]  
-[![Node.js][Node-badge]][Node-url]  
+→ Acts as the control layer between user intent and robotic systems  
 
 ---
 
-## Embedded & Systems Engineering
+### Khymera (Robotic Gripper / Prosthetic System)  
+A modular robotic platform focused on accessibility and efficient mechanical design.
 
-- ESP32 / Microcontrollers  
-- Real-time communication (SSE, hardware APIs)  
-- Sensor integration & telemetry systems  
-- Actuator control (servos, mechanical systems)  
-- Hardware-software co-design  
+- 3D-printed structure (PLA + TPU)  
+- Servo-actuated mechanism (four-bar linkage)  
+- Embedded control (ESP32)  
+
+→ An attempt to build low-cost, functional prosthetic solutions  
 
 ---
 
-## Let's Connect
+### GETAPRO  
+A platform for managing research and technical projects with real-time collaboration and AI support.
 
-Whether you're building software, hardware, or something in between, I'm always interested in projects that push boundaries and turn ideas into real systems.
+→ Designed to reduce friction in complex academic and engineering workflows  
+
+---
+
+### WTranscriber  
+AI-powered transcription tool for audio and video.
+
+→ Focused on accessibility and fast content processing  
+
+---
+
+### Spelling Bee 2025  
+Gamified educational platform for training students in spelling competitions.
+
+→ Built to make structured learning more engaging and measurable  
+
+---
+
+### Custom Biomedical & Robotics Systems  
+Concepts and prototypes including exosuit architectures and modular prosthetic systems.  
+
+→ Currently exploring how software, control systems, and mechanics can integrate into assistive technologies  
+
+---
+
+## Technical Focus
+
+Rather than isolated skills, I work across layers:
+
+Frontend & Interfaces  
+React, Next.js, Tailwind CSS, Framer Motion  
+
+Backend & Logic  
+Python, Flask, Firebase, TypeScript, Node.js  
+
+Embedded & Systems  
+ESP32, microcontrollers, real-time communication, sensor integration, actuator control  
+
+---
+
+## Direction
+
+I’m particularly interested in building systems where software directly interacts with the physical world — robotics, assistive technology, and human-machine interfaces.
+
+---
+
+## Let’s Connect
+
+If you're working on something that involves real-world systems — hardware, software, or both — I’m interested.
 
 ---
 
@@ -89,22 +107,3 @@ Whether you're building software, hardware, or something in between, I'm always 
 [LinkedIn-url]: https://www.linkedin.com/in/carlos-osorio-a6967b2a6/  
 [Instagram-badge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white  
 [Instagram-url]: https://www.instagram.com/xlceor/
-
-[Python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white  
-[Python-url]: https://www.python.org/  
-[React-badge]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB  
-[React-url]: https://reactjs.org/  
-[Next-badge]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white  
-[Next-url]: https://nextjs.org/  
-[Tailwind-badge]: https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white  
-[Tailwind-url]: https://tailwindcss.com/  
-[JavaScript-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black  
-[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript  
-[Flask-badge]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white  
-[Flask-url]: https://flask.palletsprojects.com/  
-[Firebase-badge]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black  
-[Firebase-url]: https://firebase.google.com/  
-[TypeScript-badge]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white  
-[TypeScript-url]: https://www.typescriptlang.org/  
-[Node-badge]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white  
-[Node-url]: https://nodejs.org/
