@@ -1,36 +1,63 @@
-# Carlos Osorio — Full-Stack Developer & Creative Technologist
+# Carlos Osorio — Full-Stack Developer & Embedded Systems Engineer
 
 [![Upwork][Upwork-badge]][Upwork-url] 
 [![LinkedIn][LinkedIn-badge]][LinkedIn-url]
 [![Instagram][Instagram-badge]][Instagram-url]
 
-I'm Carlos Osorio, a self-taught full-stack developer with a passion for merging functionality and imagination. From crafting AI-driven tools to building futuristic interfaces, I strive to make the digital world more elegant, powerful, and accessible. Whether it’s a React app or a Node.JS/Flask API, I believe technology should feel like magic—but built with logic.
+I'm Carlos Osorio, a self-taught developer and builder focused on bridging software and physical systems. I design and develop everything from AI-powered applications to embedded control systems, always aiming to turn complex ideas into functional, real-world technology.
 
-## **About Me**
+What started as web development has evolved into building full-stack systems that extend beyond the screen — combining interfaces, hardware, and intelligent control.
 
-My journey began with curiosity and countless hours of experimentation. Through online resources, I learned to build applications from scratch, both client- and server-side. I've developed projects that range from AI-powered tools to productivity platforms for students and businesses.
+---
 
-Currently, I’m focused on:
+## About Me
 
-- Building interactive UIs with **React**, **Tailwind CSS**, **Next.js** and **Framer Motion**
-- Creating intelligent backends with **Python**, **Flask**, **Firebase**, and **TypeScript**
-- Prototyping innovative tools using **ESP32** and embedded tech
+My journey began with curiosity and relentless experimentation. I learned to build applications from scratch—both frontend and backend—and gradually expanded into embedded systems, robotics, and hardware-driven development.
 
-## **Highlighted Projects**
+Currently, I focus on:
 
-- **GETAPRO** – Platform for managing research projects with real-time collaboration and AI-powered support for academic and scientific environments.  
-- **[WTranscriber](https://xlceor.vercel.app/#wtranscriber)** – AI transcription tool for audio and video, powered by Whisper and built with accessibility in mind.  
-- **[Spelling Bee 2025](https://spelling-bee-cham.vercel.app/)** – Educational web app designed to train students for English spelling competitions in a gamified way. 
-- **Custom Biomedical tech, as Exosuit and protesys Systems** – *Coming soon…*  
+- Building interactive interfaces with React, Next.js, Tailwind CSS, and Framer Motion
+- Developing intelligent backends with Python, Flask, Firebase, and TypeScript
+- Designing real-time control systems for embedded hardware (ESP32, microcontrollers)
+- Prototyping robotic and electromechanical systems
 
-## **Frontend Technologies**
+---
+
+## Highlighted Projects
+- Khymera Dashboard – Real-time control and telemetry interface for embedded systems.  
+  - Live sensor monitoring (SSE)  
+  - Actuator control (servos, hardware interfaces)  
+  - AI-assisted command execution  
+  - Voice interaction  
+  → Acts as the control layer for a physical robotic system  
+
+- Khymera (Robotic Gripper / Prosthetic System) – Modular robotic platform focused on accessibility and mechanical efficiency.  
+  - 3D-printed structure (PLA + TPU)  
+  - Servo-actuated mechanism (four-bar linkage)  
+  - Embedded control (ESP32)  
+  - Designed for low-cost, functional prosthetic applications  
+
+- GETAPRO – Platform for managing research projects with real-time collaboration and AI-powered support for academic and scientific environments.  
+
+- WTranscriber – AI transcription tool for audio and video, powered by Whisper and built with accessibility in mind.  
+
+- Spelling Bee 2025 – Educational web app designed to train students for English spelling competitions in a gamified way.  
+
+- Custom Biomedical & Robotics Systems – Including exosuit concepts and modular prosthetic architectures  
+  (In active development)  
+
+---
+
+## Frontend Technologies
 
 [![React][React-badge]][React-url]  
 [![Next.js][Next-badge]][Next-url]  
 [![TailwindCSS][Tailwind-badge]][Tailwind-url]  
 [![JavaScript][JavaScript-badge]][JavaScript-url]  
 
-## **Backend Technologies**
+---
+
+## Backend Technologies
 
 [![Python][Python-badge]][Python-url]  
 [![Flask][Flask-badge]][Flask-url]  
@@ -38,9 +65,21 @@ Currently, I’m focused on:
 [![TypeScript][TypeScript-badge]][TypeScript-url]  
 [![Node.js][Node-badge]][Node-url]  
 
-## **Let's Connect**
+---
 
-Whether you're looking to build a new app, automate a workflow, or just chat about wild futuristic ideas, feel free to reach out. Collaboration is the fuel of innovation.
+## Embedded & Systems Engineering
+
+- ESP32 / Microcontrollers  
+- Real-time communication (SSE, hardware APIs)  
+- Sensor integration & telemetry systems  
+- Actuator control (servos, mechanical systems)  
+- Hardware-software co-design  
+
+---
+
+## Let's Connect
+
+Whether you're building software, hardware, or something in between, I'm always interested in projects that push boundaries and turn ideas into real systems.
 
 ---
 
@@ -68,4 +107,4 @@ Whether you're looking to build a new app, automate a workflow, or just chat abo
 [TypeScript-badge]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white  
 [TypeScript-url]: https://www.typescriptlang.org/  
 [Node-badge]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white  
-[Node-url]: https://nodejs.org/  
+[Node-url]: https://nodejs.org/
