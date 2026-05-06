@@ -45,6 +45,13 @@ A modular robotic platform focused on accessibility and efficient mechanical des
 → An attempt to build low-cost, functional prosthetic solutions  
 
 ---
+### Jevil_Tester  
+AI powered testing system for IoT apps
+
+- Creative use of Passmark(AI + Playwright)
+- ESP32 fake server with 5 modes
+
+---
 
 ### GETAPRO  
 A platform for managing research and technical projects with real-time collaboration and AI support.
@@ -60,12 +67,6 @@ AI-powered transcription tool for audio and video.
 
 ---
 
-### Spelling Bee 2025  
-Gamified educational platform for training students in spelling competitions.
-
-→ Built to make structured learning more engaging and measurable  
-
----
 
 ### Custom Biomedical & Robotics Systems  
 Concepts and prototypes including exosuit architectures and modular prosthetic systems.  
