@@ -1,110 +1,40 @@
-# Carlos Osorio — Systems Builder (Software + Embedded + Robotics)
+# Carlos Osorio
 
-[![Upwork][Upwork-badge]][Upwork-url] 
-[![LinkedIn][LinkedIn-badge]][LinkedIn-url]
-[![Instagram][Instagram-badge]][Instagram-url]
+Self-taught developer and systems builder based in Mexico. I started with web, ended up in embedded systems and robotics — not by accident, but because building things that only exist on a screen stopped being enough.
 
-I build systems that connect software with the physical world — turning human intention into real, measurable action.
-
-What started as web development evolved into designing full-stack architectures that go beyond screens: systems that sense, decide, and act through hardware, real-time communication, and intelligent control.
+I work at the intersection of web development, Python automation, and embedded hardware. Most of my projects started as problems I wanted to solve, or ideas that sounded almost impossible at the time.
 
 ---
 
-## What I Do
+## A few things I've shipped
 
-I focus on building end-to-end systems, where interfaces, logic, and hardware work as a single unit.
+**File Reconciliation Tool** — Python desktop app I built for my dad's job. He was manually cross-referencing 600–1,000 invoices against a master Excel every week. Now it takes under two seconds. The app has a proper installer, auto-updater, and license system. It's in daily use by real people in a real business context. It saves around $230/week.
 
-- Design interactive interfaces that control real-world systems  
-- Build intelligent backends that process, decide, and respond in real time  
-- Develop embedded control systems for sensors and actuators  
-- Prototype robotic and electromechanical solutions  
+**Khymera Dashboard + Gripper** — Real-time control interface for a robotic gripper I designed and 3D-printed. SSE for live sensor data from the ESP32, HTTP commands to move servos. All electronics enclosed inside the printed housing — no protoboard, custom soldered board. Built for my school's interdisciplinary final project around prosthetic accessibility.
 
----
+**GETAPRO** — Project management platform built twice. First version: React + chatbot, grade 9, learning on the fly. Second version: Next.js, Supabase, TipTap editor, Google auth, role-based workspaces. Built it because my school needed it and nothing existing worked the way it should.
 
-## Selected Work
+**Jevil** — IoT testing system for a Hashnode hackathon. Combined Playwright + AI with a software ESP32 simulator that had five modes, including one that deliberately injected XSS via sensor data into my own dashboard. Found real vulnerabilities. Only entry in the hackathon that integrated actual embedded hardware simulation.
 
-### Khymera Dashboard  
-A real-time control and telemetry system designed to interact with physical hardware.
-
-- Live sensor monitoring (SSE)  
-- Actuator control (servos, hardware interfaces)  
-- AI-assisted command execution  
-- Voice interaction  
-
-→ Acts as the control layer between user intent and robotic systems  
+**Self-balancing robot** — Built in one week for a science fair without knowing anything about PID control. Didn't fully solve the balancing in time, so I added a third leg and made it a hybrid RC/self-balancing device instead. Won second place.
 
 ---
 
-### Khymera (Robotic Gripper / Prosthetic System)  
-A modular robotic platform focused on accessibility and efficient mechanical design.
+## Stack
 
-- 3D-printed structure (PLA + TPU)  
-- Servo-actuated mechanism (four-bar linkage)  
-- Embedded control (ESP32)  
-
-→ An attempt to build low-cost, functional prosthetic solutions  
-
----
-### Jevil_Tester  
-AI powered testing system for IoT apps
-
-- Creative use of Passmark(AI + Playwright)
-- ESP32 fake server with 5 modes
+**Web:** Next.js · React · TypeScript · Tailwind CSS · Node.js · Python · Flask · Supabase  
+**Embedded:** ESP32 · Arduino · C/C++ · FreeRTOS · SSE · I²C · SPI · servo control  
+**Other:** Playwright · 3D printing (PLA/TPU) · PID control · four-bar linkage mechanisms
 
 ---
 
-### GETAPRO  
-A platform for managing research and technical projects with real-time collaboration and AI support.
+## Currently
 
-→ Designed to reduce friction in complex academic and engineering workflows  
+Building things at the intersection of software, embedded systems, and automation. Open to freelance projects — especially anything involving hardware-software integration, Python tooling, or full-stack development.
 
----
-
-### WTranscriber  
-AI-powered transcription tool for audio and video.
-
-→ Focused on accessibility and fast content processing  
+→ [Upwork](https://www.upwork.com/freelancers/~01093075254cf375b0) · [LinkedIn](https://www.linkedin.com/in/carlos-osorio-a6967b2a6/) · [Portfolio](https://your-portfolio-url.com)
 
 ---
 
-
-### Custom Biomedical & Robotics Systems  
-Concepts and prototypes including exosuit architectures and modular prosthetic systems.  
-
-→ Currently exploring how software, control systems, and mechanics can integrate into assistive technologies  
-
----
-
-## Technical Focus
-
-Rather than isolated skills, I work across layers:
-
-Frontend & Interfaces  
-React, Next.js, Tailwind CSS, Framer Motion  
-
-Backend & Logic  
-Python, Flask, Firebase, TypeScript, Node.js  
-
-Embedded & Systems  
-ESP32, microcontrollers, real-time communication, sensor integration, actuator control  
-
----
-
-## Direction
-
-I’m particularly interested in building systems where software directly interacts with the physical world — robotics, assistive technology, and human-machine interfaces.
-
----
-
-## Let’s Connect
-
-If you're working on something that involves real-world systems — hardware, software, or both — I’m interested.
-
----
-
-[Upwork-badge]: https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white  
-[Upwork-url]: https://www.upwork.com/freelancers/~01093075254cf375b0  
-[LinkedIn-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white  
-[LinkedIn-url]: https://www.linkedin.com/in/carlos-osorio-a6967b2a6/  
-[Instagram-badge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white  
-[Instagram-url]: https://www.instagram.com/xlceor/
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01093075254cf375b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-osorio-a6967b2a6/)
