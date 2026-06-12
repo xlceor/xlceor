@@ -32,7 +32,7 @@ I work at the intersection of web development, Python automation, and embedded h
 
 Building things at the intersection of software, embedded systems, and automation. Open to freelance projects — especially anything involving hardware-software integration, Python tooling, or full-stack development.
 
-→ [Upwork](https://www.upwork.com/freelancers/~01093075254cf375b0) · [LinkedIn](https://www.linkedin.com/in/carlos-osorio-a6967b2a6/) · [Portfolio](https://your-portfolio-url.com)
+→ [Upwork](https://www.upwork.com/freelancers/~01093075254cf375b0) · [LinkedIn](https://www.linkedin.com/in/carlos-osorio-a6967b2a6/) · [Portfolio](https://xlceor.vercel.app)
 
 ---
 
