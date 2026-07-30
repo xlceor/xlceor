@@ -4,7 +4,9 @@ Self-taught developer and systems builder based in Mexico. I started with web, e
 
 I work at the intersection of web development, Python automation, and embedded hardware. Most of my projects started as problems I wanted to solve, or ideas that sounded almost impossible at the time.
 
+
 ---
+
 
 ## A few things I've shipped
 
